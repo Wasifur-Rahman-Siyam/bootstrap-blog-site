@@ -1,0 +1,27 @@
+.article h1{
+font-size: 32px;
+margin-bottom: 1rem;
+}
+.article h2{
+    font-size: 28px;
+    margin-bottom: 1rem;
+}
+.article h3{
+    font-size: 22px;
+    margin-bottom: 1rem;
+}
+.article h4{
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+
+.article p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.article a{
+    text-decoration: none;
+    color: #666;
+}
